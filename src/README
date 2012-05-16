@@ -1,0 +1,15 @@
+Login: nirtu
+Name: Nir Turjeman, ID: 039622543
+Ex1 (=ex1a + ex1b)
+Submitted files:
+	list.c - creates a list
+	pattern_matching.c - implements 
+	README - this file
+Remarks:
+	pattern matching must be called with an array and not with a linked list.
+	the list supported action were given in slist.h - NO CHANGE WAS MADE TO THE .h FILE.
+	the pattern matcher build according to a given H file and algorithem - NO CHANGE WAS MADE TO THE .h FILE.
+	My implementation allows to create a linked List of data (from different types - user responsibility to identify the type).
+	the documentation were made in the files but since you gave us the .h file with documentation i did a little of that.
+	in case my program is failing it returns only -1 (in fatal error exit(-1)) but I have no message to the stderr that because there where instruction 			for that!!!
+
